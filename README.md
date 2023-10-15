@@ -1,10 +1,10 @@
 # 👀 👋 Yo there ! 🛸👽 Bienvenue chez Mikau ! 💜🩵
 
-🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps...
+## 🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps...
 
-🎧🎼🎵 Chose certaine j'ai toujours le volume au max ! 🎹🎶🔊
+## 🎧🎼🎵 Chose certaine j'ai toujours le volume au max ! 🎹🎶🔊
 
-Développe *(grand mot... pensez plus à un mad scientist ! 🤣)* surtout avec :
+### Développe *(grand mot... pensez plus à un mad scientist ! 🤣)* surtout avec :
 - pwsh 😈
   - et oui même sur macOS 🍎 et Linux 🐧 ... sacrilège je sais ! 😅
 - Python 🐍
