@@ -4,7 +4,7 @@
 
 🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps ?
 
-🎧🎼🎵 En tout cas il y a une chose qui certaine j'ai toujours le volume au max ! 🎹🎶🔊
+🎧🎼🎵 En tout cas, il y a une chose qui est bien certaine, c'est que j'ai toujours le volume au max ! 🎹🎶🔊
 
 **Développe surtout avec :**
 *<sup>(développer est un bien grand mot... en bon québécois on appel ça « un patenteux » 🤣)</sup>*
