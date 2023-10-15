@@ -7,7 +7,7 @@
 🎧🎼🎵 En tout cas il y a une chose qui certaine j'ai toujours le volume au max ! 🎹🎶🔊
 
 **Développe surtout avec :**
-*(développer est un bien grand mot... en bon québécois on appel ça « un patenteux » 🤣)*
+*<sup>(développer est un bien grand mot... en bon québécois on appel ça « un patenteux » 🤣)</sup>*
 1. pwsh 😈
    - et oui même sur macOS 🍎 et Linux 🐧 ... sacrilège je sais ! 😅
 2. Python 🐍
