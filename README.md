@@ -1,9 +1,10 @@
 ### 👋 👀 Yo there ! 🛸👽 Bienvenue chez Mikau ! 💜🩵
 
 🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps...
+
 🎧🎼🎵 Chose certaine j'ai toujours le volume au max ! 🎹🎶🔊
 
-**Développe *(grand mot... pensez plus à un mad scientist ! En bon québécois « un patenteux » 🤣)* surtout avec :**
+**Développe<sup>\*</sup> <sup>\**(grand mot... en bon québécois on dirait plutôt « un patenteux » 🤣)*</sup> **
 1. pwsh 😈
   - et oui même sur macOS 🍎 et Linux 🐧 ... sacrilège je sais ! 😅 ()
 2. Python 🐍
