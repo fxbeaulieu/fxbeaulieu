@@ -1,6 +1,7 @@
-### 👀 👋 Yo there ! 🛸👽 Bienvenue chez Mikau ! 💜🩵
+# 👀 👋 Yo there ! 🛸👽 Bienvenue chez Mikau ! 💜🩵
 
-🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps... 
+🧑🏻‍💻🎨🎮🎤📚 Trop d'intérêts, trop peu de temps...
+
 🎧🎼🎵 Chose certaine j'ai toujours le volume au max ! 🎹🎶🔊
 
 Développe *(grand mot... pensez plus à un mad scientist ! 🤣)* surtout avec :
