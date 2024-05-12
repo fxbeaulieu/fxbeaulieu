@@ -11,7 +11,7 @@
 1. pwsh 😈
    - et oui même sur macOS 🍎 et Linux 🐧 ... sacrilège je sais ! 😅
 2. Python 🐍
-   - Surtout pour dev le AI assistant interne basé sur GPT3.5 Turbo (hébergé dans Azure OpenAI) 🤖☁️
+   - Surtout pour dev le AI assistant interne basé sur GPT4 Turbo et GPT4 Turbo Vision (hébergé dans Azure OpenAI) 🤖☁️
 3. Power Platform / Azure Logic Apps 🔁☁️
 4. JSON/OpenAPI 📊🪝
 5. HTML/CSS 📑🌐
